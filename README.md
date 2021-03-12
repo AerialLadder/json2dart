@@ -1,10 +1,10 @@
 # json2dart_serialization
 
-[English readme](https://github.com/CaiJingLong/json2dart/blob/master/README_ENG.md)
+[English readme](https://github.com/WizzXu/json2dart/blob/master/README_ENG.md)
 
 一个网页版本的 json 转 dart 库
 
-[直接使用 json2dart](https://caijinglong.github.io/json2dart/index.html)
+[直接使用 json2dart](https://wizzxu.github.io/json2dart/)
 
 ## 说明
 
